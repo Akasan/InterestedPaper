@@ -1,0 +1,2 @@
+- [Deep Kernel Learning](https://arxiv.org/pdf/1511.02222.pdf)
+- [Convolutional LSTM Network: A Machine Learning Approach for Precipitation Nowcasting](https://arxiv.org/pdf/1506.04214.pdf)
